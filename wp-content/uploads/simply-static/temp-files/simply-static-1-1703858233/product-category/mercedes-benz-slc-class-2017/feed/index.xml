@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mercedes-Benz SLC-Class 2017 &#8211; Car Rental</title>
+	<atom:link href="https://digitack-io.github.io/Carrental/product-category/mercedes-benz-slc-class-2017/feed/" rel="self" type="application/rss+xml" />
+	<link>https://digitack-io.github.io/Carrental</link>
+	<description></description>
+	<lastBuildDate>Tue, 03 Jan 2023 23:24:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Mercedes-Benz SLC-Class 2019</title>
+		<link>https://digitack-io.github.io/Carrental/product/mercedes-benz-slc-class-2017/</link>
+					<comments>https://digitack-io.github.io/Carrental/product/mercedes-benz-slc-class-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 30 Dec 2022 17:33:08 +0000</pubDate>
+				<guid isPermaLink="false">https://digitack-io.github.io/Carrental/?post_type=product#038;p=368</guid>
+
+					<description><![CDATA[Please choose your desired days.
+
+BELOW!]]></description>
+										<content:encoded><![CDATA[<p>My 2 door Mercedes-Benz SLC 2019 drop-top coupe is great for couple trips short or long distances. If you looking to travel in more of a luxury style, this is what you need. It’s Royal blue on the outside and dark brown on the inside</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://digitack-io.github.io/Carrental/product/mercedes-benz-slc-class-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
